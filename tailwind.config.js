@@ -10,7 +10,6 @@ module.exports = {
       center: true,
       padding: "1rem",
     },
-
     screens: {
       sm: "540px",
       // => @media (min-width: 576px) { ... }
